@@ -2,7 +2,7 @@
 package Task0.Introduction;
 
 public class task0_5 {
-    public static void main(string args[]) {
+    public static void main(String args[]) {
         int dividend = 67;
         int divisor = 5;
         int quotient = dividend / divisor;
