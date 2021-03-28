@@ -1,3 +1,4 @@
+
 //Java program to find all roots of a quadratic equation.
 package Task0.Introduction;
 
@@ -34,7 +35,7 @@ public class Task0_10 {
             double real = -b / ( 2 * a );
             double imaginary = Math.sqrt(-determinant) / ( 2 * a );
             System.out.println(" root1 = " + (float)real + " + i " + (float)imaginary);
-            System.out.println(" root2 = " + (float)real +  " -i " + float)imaginary);
+            System.out.println(" root2 = " + (float)real +  " -i " + (float)imaginary);
         }
     }
 }
