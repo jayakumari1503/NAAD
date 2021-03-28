@@ -24,6 +24,6 @@
 
     *[Task0_11-Java program to find the frequency of a character in a string.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_11.java)
 
-    *[Task0_12-Java program to remove all whitespaces from a string](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_12.java)*
+    *[Task0_12-Java program to remove all whitespaces from a string](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_12.java)
 
-    *[Task0_14-Java program to check if a string is empty or null.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_14.java)*
+    *[Task0_14-Java program to check if a string is empty or null.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_14.java)
