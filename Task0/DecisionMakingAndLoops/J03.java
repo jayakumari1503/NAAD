@@ -2,11 +2,8 @@
 
 package Task0.DecisionMakingAndLoops;
 
-import java.util.Scanner;
-
 public class J03 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
         System.out.print(" Alphabets (A to Z) : ");
 
