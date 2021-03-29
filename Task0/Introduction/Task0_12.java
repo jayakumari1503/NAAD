@@ -1,13 +1,18 @@
 //Java program to remove all whitespaces from a string.
 package Task0.Introduction;
 
+import java.util.Scanner;
+
 public class Task0_12 {
     public static void main(String args[]) {
-        String string = "   Hello  W orld ";
-        System.out.println(" Original sentence : " + string);
+
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.print(" Enter a string : ");
+        String str = scanner.nextLine();
         
-        string = string.replaceAll(" \\s " , " ");
-        System.out.println(" After replacement : " + string);
+        str = str.replaceAll("\\s" , "");
+        System.out.println("After replacement :" + str);
     }
     
 }
