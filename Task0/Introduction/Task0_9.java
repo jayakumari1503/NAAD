@@ -11,13 +11,13 @@ public class Task0_9 {
 
     Scanner scanner = new Scanner(System.in);
 
-     System.out.println(" Enter the first number : ");
+     System.out.print(" Enter the first number : ");
      x = scanner.nextInt();
 
-     System.out.println(" Enter the second number : ");
+     System.out.print(" Enter the second number : ");
      y = scanner.nextInt();
 
-     System.out.println(" Enter the third number : ");
+     System.out.print(" Enter the third number : ");
      z = scanner.nextInt();
 
      if(x > y && x > z)
