@@ -15,6 +15,6 @@ import java.util.*;
         z = x;
         x = y;
         y =z;
-        System.out.println(" After swapping " + " x = " + x + " and " + " y = " + y);
+        System.out.println(" After swapping : " + " x = " + x + " and " + " y = " + y);
     }
 }
