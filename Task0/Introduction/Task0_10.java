@@ -7,14 +7,18 @@ import java.util.Scanner;
 public class Task0_10 {
     public static void main(String args[]) {
         System.out.println(" Standard form of quadratic equation is a*x^2 + b*x + c = 0" );
-            System.out.println(" Enter the value of a :");
-            System.out.println(" Enter the value of b : ");
-            System.out.println(" Enter the value of c : ");
 
-        Scanner sc = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in);
+
+            System.out.print(" Enter the value of a :");
             double a = sc.nextFloat();
+
+            System.out.print(" Enter the value of b : ");
             double b = sc.nextFloat();
+
+            System.out.print(" Enter the value of c : ");
             double c = sc.nextFloat();
+
             double determinant = b * b - 4 * a * c ;
             double root1;
             double root2;
