@@ -1,9 +1,12 @@
 ### Assignment0/Task0
+---
 * **Arrays**
+  ---
     * [J01-Java program to calculate average using arrays.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Arrays/J01.java)
     * [J02-Java program to Concatenate two arrays.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Arrays/J02.java)
 ***
 * **Decision Making And Loops**
+  ---
   * [J01-Java program to check whether a character is alphabet or not.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/DecisionMakingAndLoops/J01.java)
   * [J02-Java program to display fibonacci series.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/DecisionMakingAndLoops/J02.java)
   * [J03-Java program to display alphabets( A to Z) using loop.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/DecisionMakingAndLoops/J03.java)
@@ -16,6 +19,7 @@
   * [J10-Java program to create pyramid and pattern.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/DecisionMakingAndLoops/J10.java)
 ***
 * **Introduction**
+  ---
     * [Task0_1-Java program to print an integer(Entered by the user).](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_1.java)
     * [Task0_2-Java program to add two integers.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_2.java)
     * [Task0_3-Java program to Multiply two floating point numbers.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_3.java)
@@ -32,6 +36,7 @@
     * [Task0_14-Java program to check if a string is empty or null.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/Introduction/Task0_14.java)
 ***
 * **String**
+  ---
     * [J01-Java program to convert string to date.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/String/J01.java)
     * [Jo2-Java program to compare strings.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/String/J02.java)
     * [J03-Java program to check if a string is numeric.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/String/J03.java)
@@ -44,5 +49,6 @@
     * [J10-Java program to check if a string contains a substring.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/String/J10.java)   
 ***
 * **Type Conversion**
+  ---
     * [J01-Java program to convert string type variables into int.](https://github.com/jayakumari1503/NAAD/tree/main/Task0/TypeConversion)
     * [J02-Java program to convert int type variable to string.](https://github.com/jayakumari1503/NAAD/blob/main/Task0/TypeConversion/J02.java)
